@@ -1,8 +1,6 @@
 # HeartRateCalculator
 AWS lambda functions from a Flask app 
 
-# HeartRateCalculator
-AWS lambda functions from a Flask app 
 # Flask Python backend having rest Apis invoking AWS lambda Functions 
 
 Steps :
