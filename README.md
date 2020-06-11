@@ -36,3 +36,12 @@ Steps :
 	(mentioned port can be chaged according to requirement just change port id in python main() :)
 
 	
+# AWS Secret key
+one can find these keys in aws profile in right upper conrner of aws console
+  ->https://console.aws.amazon.com/iam/home#/security_credentials
+  ->Access keys (access key ID and secret access key)
+  
+or just visit aws credentials in your home directory (for linux or mac)
+  cd ~./aws
+  gedit credentials
+  gedit config
