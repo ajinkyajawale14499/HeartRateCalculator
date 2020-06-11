@@ -1,13 +1,13 @@
 """
 This config file would have the credentials
 [default]
-aws_access_key_id = AKIAJ47J5YQMYBGTK55Q
-aws_secret_access_key = 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
+aws_access_key_id = "enter aws id"
+aws_secret_access_key = "enter aws secret access key"
 """
 
 #aws
-aws_access_key_id= 'AKIAJ47J5YQMYBGTK55Q'
-aws_secret_access_key='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'
+aws_access_key_id= 'enter aws id'
+aws_secret_access_key='enter aws secret access key'
 region='ap-south-1'
 
 #lambda function name
